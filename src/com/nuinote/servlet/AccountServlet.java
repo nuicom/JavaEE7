@@ -1,4 +1,4 @@
-package com.nuinote;
+package com.nuinote.servlet;
 
 import java.io.IOException;
 import javax.servlet.ServletException;
